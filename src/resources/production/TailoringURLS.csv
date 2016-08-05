@@ -1,0 +1,5 @@
+a,create new tailoring ticket order,/tickets/create
+a,transfer garments,/tickets/transfer-garments
+a,transfer a rack,/tickets/transfer-rack
+a,print packing list,/tickets/audit
+a,search orders,/tickets/order-list
